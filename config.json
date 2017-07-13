@@ -1,0 +1,42 @@
+{
+  "courses": {
+    "fall": ["BZ",
+      "SZOCPOL",
+      "STRATMEN",
+      "PYTHON",
+      "URBAN",
+      "EGGAZD",
+      "BEVKOZG",
+      "KRIMPED",
+      "KVANTIMARK"],
+    "spring": ["TUDFILO",
+      "ERTSTRAT",
+      "MECHA",
+      "BEVOKO",
+      "TRANZIT",
+      "DIGIGAZD",
+      "LIRA",
+      "ETIKA",
+      "TARSSTAT"]
+  },
+  "limits": {
+    "BZ": 8,
+    "SZOCPOL": 8,
+    "STRATMEN": 8,
+    "PYTHON": 8,
+    "URBAN": 8,
+    "EGGAZD": 8,
+    "BEVKOZG": 8,
+    "KRIMPED": 8,
+    "KVANTIMARK": 8,
+    "TUDFILO": 8,
+    "ERTSTRAT": 6,
+    "MECHA": 8,
+    "BEVOKO": 8,
+    "TRANZIT": 8,
+    "DIGIGAZD": 8,
+    "LIRA": 8,
+    "ETIKA": 8,
+    "TARSSTAT": 8
+  }
+}
